@@ -22,5 +22,5 @@
 ### 3. Lambda and Stream
 |Index|Topic|BOJ|Programmers|
 |-----|-----|---|-----------|
-|1|LinkedList|[에디터](https://www.acmicpc.net/problem/1406), [요세푸스](https://www.acmicpc.net/problem/1158), [키로거](https://www.acmicpc.net/problem/5397)|
+|1|LinkedList|[에디터](https://www.acmicpc.net/problem/1406): Silver3 </br> [요세푸스 문제](https://www.acmicpc.net/problem/1158): Silver5 </br> [키로거](https://www.acmicpc.net/problem/5397): Silver3|
 |2|Stack||
