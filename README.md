@@ -22,6 +22,7 @@
 ### 3. Algorithm 별 문제
 |Index|Topic|BOJ|Programmers|
 |-----|-----|---|-----------|
-|1|LinkedList|[에디터](https://www.acmicpc.net/problem/1406): Silver3 </br> [요세푸스 문제](https://www.acmicpc.net/problem/1158): Silver5 </br> [키로거](https://www.acmicpc.net/problem/5397): Silver3|
-|2|Stack & Queue|[제로](https://www.acmicpc.net/problem/10773): Silver4 </br> [카드2](https://www.acmicpc.net/problem/2164): Silver4 </br> [스택 수열](https://www.acmicpc.net/problem/1874): Silver3 </br> [탑](https://www.acmicpc.net/problem/2493): Gold5|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586): Lv2 </br> [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587): Lv2|
+|1|연결리스트|[에디터](https://www.acmicpc.net/problem/1406): Silver3 </br> [요세푸스 문제](https://www.acmicpc.net/problem/1158): Silver5 </br> [키로거](https://www.acmicpc.net/problem/5397): Silver3|
+|2|스택 & 큐|[제로](https://www.acmicpc.net/problem/10773): Silver4 </br> [카드2](https://www.acmicpc.net/problem/2164): Silver4 </br> [스택 수열](https://www.acmicpc.net/problem/1874): Silver3 </br> [탑](https://www.acmicpc.net/problem/2493): Gold5|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586): Lv2 </br> [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587): Lv2|
 |3|정렬||
+|4|완전탐색||
